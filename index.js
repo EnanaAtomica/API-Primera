@@ -10,6 +10,8 @@ const port = 47777;
 
 // Allow all cross-origin requests
 app.use(cors());
+app.use(express.static(__dirname ));
+
 // Middleware to parse JSON bodies
 app.use(express.json());
 
