@@ -1,6 +1,16 @@
- 
-
-/* Estilos para el segundo párrafo */
-#parrafo-2 {
-  color: green; /* Cambiar color a verde */
+ body {
+  background-color: lightblue;
+  font-family: 'Courier New', Courier, monospace;
 }
+
+#titulo {
+  color: rgb(76, 0, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 200%;
+}
+.parrafos {
+  color: rgb(140, 0, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
