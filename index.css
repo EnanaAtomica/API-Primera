@@ -1,4 +1,6 @@
-.parrafos {
-  
-    color: blue;
-  }
+ 
+
+/* Estilos para el segundo párrafo */
+#parrafo-2 {
+  color: green; /* Cambiar color a verde */
+}
