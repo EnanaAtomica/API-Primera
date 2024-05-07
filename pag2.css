@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+#dostitulo-1 {
+    color: rgb(76, 0, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 200%;
+  }
+  #dostitulo-2 {
+    color: rgb(64, 27, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 150%;
+  }

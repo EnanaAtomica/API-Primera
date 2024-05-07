@@ -1,16 +1,21 @@
- body {
+body {
   background-color: lightblue;
   font-family: 'Courier New', Courier, monospace;
 }
 
-#titulo {
+#titulo-1 {
   color: rgb(76, 0, 255);
   font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 200%;
 }
 .parrafos {
-  color: rgb(140, 0, 255);
+  color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#titulo-2 {
+  color: rgb(64, 27, 228);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 200%;
 }
 
 
